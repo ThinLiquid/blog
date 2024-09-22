@@ -13,7 +13,6 @@ so you want to make your own music player? well, you've come to the right place!
 ```html
 <div>
   <audio id="audio" controls>
-    <source src="music.mp3" type="audio/mpeg">
     your browser does not support the audio element.
   </audio>
   <div class="metadata">Not Playing.</div>
